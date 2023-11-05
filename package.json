@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "axios": "^1.5.1",
     "dotenv": "^16.3.1",
-    "node-telegram-bot-api": "^0.63.0"
+    "node-telegram-bot-api": "^0.63.0",
+    "qrcode": "^1.5.3"
   },
   "name": "medhelp",
   "version": "1.0.0",
